@@ -1,1 +1,2 @@
 Z:\labaone\labaone\bin\Debug\labaone.exe.config
+C:\Users\318215\Desktop\labaone\labaone\bin\Debug\labaone.exe.config

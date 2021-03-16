@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace labaone
 {
-    class County
+    public class County
     {
+        public string Name { get; set; }
+        public string Form { get; set; }
+        public float Square { get; set; }
+        public County(string Name, string Form, float Square)
+        {
+            this.Name = Name;
+            this.Form = Form;
+            this.Square = Square;
+        }
     }
 }
